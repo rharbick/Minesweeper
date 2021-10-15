@@ -1,2 +1,2 @@
-###MINESWEEPER
-Hopefully this will become a minesweeper web application :)
+### MINESWEEPER
+Hopefully this becomes a minsweeper web app :)
